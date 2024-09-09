@@ -18,7 +18,7 @@ namespace CurrencyConverter
             LoadCurrenciesAsync();
         }
 
-        // Währungen laden
+        // load currencies
         private async Task LoadCurrenciesAsync()
         {
             try
@@ -48,7 +48,7 @@ namespace CurrencyConverter
             }
         }
 
-        // Umrechnung durchführen
+        // calculating
         private async void Convert_Click(object sender, RoutedEventArgs e)
         {
             try
@@ -77,7 +77,7 @@ namespace CurrencyConverter
             }
         }
 
-        // API-Abfrage mit korrekten Parametern
+        // api request
         private async Task<decimal> ConvertCurrency(string fromCurrency, string toCurrency, decimal amount)
         {
             string url = $"{API_URL}/latest?from={fromCurrency}&to={toCurrency}";
@@ -100,7 +100,7 @@ namespace CurrencyConverter
             }
         }
 
-        // Clear-Button-Funktion
+        // clear button
         private void Clear_Click(object sender, RoutedEventArgs e)
         {
             cmbFromCurrency.SelectedItem = null;
