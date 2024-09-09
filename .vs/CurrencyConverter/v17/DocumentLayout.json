@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "G:\\coding-projects\\CurrencyConverter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{932E320A-D818-421E-85FD-A76838D3A9DD}|Solution Items{932E320A-D818-421E-85FD-A76838D3A9DD}|G:\\coding-projects\\CurrencyConverter\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{932E320A-D818-421E-85FD-A76838D3A9DD}|Solution Items{932E320A-D818-421E-85FD-A76838D3A9DD}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{B199F2D8-A030-4990-A3B9-0D0981F10A39}|CurrencyConverter.csproj|g:\\coding-projects\\currencyconverter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B199F2D8-A030-4990-A3B9-0D0981F10A39}|CurrencyConverter.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B199F2D8-A030-4990-A3B9-0D0981F10A39}|CurrencyConverter.csproj|g:\\coding-projects\\currencyconverter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B199F2D8-A030-4990-A3B9-0D0981F10A39}|CurrencyConverter.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B199F2D8-A030-4990-A3B9-0D0981F10A39}|CurrencyConverter.csproj|g:\\coding-projects\\currencyconverter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B199F2D8-A030-4990-A3B9-0D0981F10A39}|CurrencyConverter.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{932E320A-D818-421E-85FD-A76838D3A9DD}|Solution Items{932E320A-D818-421E-85FD-A76838D3A9DD}|G:\\coding-projects\\CurrencyConverter\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{932E320A-D818-421E-85FD-A76838D3A9DD}|Solution Items{932E320A-D818-421E-85FD-A76838D3A9DD}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{932E320A-D818-421E-85FD-A76838D3A9DD}|Solution Items{932E320A-D818-421E-85FD-A76838D3A9DD}|G:\\coding-projects\\CurrencyConverter\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "G:\\coding-projects\\CurrencyConverter\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -67,15 +67,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "G:\\coding-projects\\CurrencyConverter\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "G:\\coding-projects\\CurrencyConverter\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwCQAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwGgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T17:58:10.08Z"
+              "WhenOpened": "2024-09-09T17:58:10.08Z",
+              "EditorCaption": ""
             }
           ]
         }
